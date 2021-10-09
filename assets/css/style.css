@@ -703,6 +703,40 @@ h1, h2 {
     margin: 1% auto;
 }
 
+#menu_button {
+    margin: 3% auto;
+    
+    padding: 5px;
+    width: 30%;
+    border: 2px solid #080808;
+    border-radius: 6px;
+
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+
+    font-size: 170%;
+}
+
+#menu_button a {
+    text-decoration: none;
+    color: #080808;
+}
+
+#menu_button:hover {
+    background-color: #C7BF94;
+}
+
+#menu_button h2 {
+    font-size: 180%;
+    float: left;
+    text-align: center;
+    background-color: white;
+    padding:2px;
+}
+
 .price {
     color: #808000;
     font-style: italic;

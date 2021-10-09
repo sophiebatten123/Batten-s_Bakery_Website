@@ -992,6 +992,9 @@ h1, h2 {
     .contact_us > h3 {
         font-size: 100%;
     }
+    #premium_afternoon_tea {
+        height: 36%;
+    }
 }
 
 @media screen and (max-width: 1010px) {
@@ -1090,6 +1093,12 @@ h1, h2 {
     #background_footer {
         height: 90px;
     }
+    #menu_download {
+        width: 80%;
+    }
+    #menu_button {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 830px) {
@@ -1110,6 +1119,12 @@ h1, h2 {
     }
     #afternoon_tea_foreground_images {
         display: none;
+    }
+    #classic_afternoon_tea {
+        height: 27%;
+    }
+    #premium_afternoon_tea {
+        height: 38%;
     }
 }
 
@@ -1143,6 +1158,9 @@ h1, h2 {
     }
     #footer_media {
         width: 30%;
+    }
+    #classic_afternoon_tea {
+        height: 29%;
     }
 }
 
@@ -1208,6 +1226,17 @@ h1, h2 {
     }
     #footer_media {
         width: 35%;
+    }
+    #classic_afternoon_tea {
+        height: 30%;
+        width: 98%;
+    }
+    #premium_afternoon_tea {
+        height: 42%;
+        width: 98%;
+    }
+    #extra_afternoon_tea {
+        width: 98%;
     }
 }
 
@@ -1319,6 +1348,18 @@ h1, h2 {
     }
     .contact_us h3 {
         float: none;
+    }
+    .menu p {
+        font-size: 120%;
+    }
+    #classic_afternoon_tea {
+        height: 27%;
+    }
+    #premium_afternoon_tea {
+        height: 39%;
+    }
+    #menu_button {
+        margin-top: 15%;
     }
 }
 

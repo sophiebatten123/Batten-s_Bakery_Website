@@ -63,6 +63,20 @@ h1, h2 {
     letter-spacing: 20px;
 }
 
+#signup {
+    position: absolute;
+    right: 8%;
+    top: 40%;
+}
+
+#signup a {
+    text-decoration: none;
+}
+
+#signup_responsive {
+    display: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {
@@ -71,6 +85,9 @@ h1, h2 {
     }
     #media_platforms i {
         letter-spacing: 10px;
+    }
+    #signup h2 {
+        letter-spacing: 2px;
     }
 }
 
@@ -86,10 +103,26 @@ h1, h2 {
     #media_platforms i {
         font-size: 135%;
     }
+    #signup {
+        display: none;
+    }
+    #signup_responsive {
+        font-size: 120%;
+        color: #080808;
+        text-decoration: none;
+
+        display: block;
+        position: absolute;
+        top: 30%;
+        right: 8%;
+    }
 }
 
 @media screen and (max-width: 640px) {
     #media_platforms {
+        display: none;
+    }
+    #signup_responsive {
         display: none;
     }
 }

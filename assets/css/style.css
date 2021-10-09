@@ -493,7 +493,7 @@ h1, h2 {
     margin-left: 8%;
 
     border: 2px solid #808000;
-    padding: 1%;
+    padding: 1px;
     border-radius: 3px;
 
     box-sizing: border-box;
@@ -506,10 +506,10 @@ h1, h2 {
     z-index:2;
 
     margin-top: 48%;
-    margin-right: 8%;
+    margin-left: -5%;
 
     border: 2px solid #808000;
-    padding: 1%;
+    padding: 1px;
     border-radius: 3px;
 
     box-sizing: border-box;

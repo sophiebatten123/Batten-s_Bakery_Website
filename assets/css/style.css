@@ -208,6 +208,64 @@ h1, h2 {
     padding: 1%;
 }
 
+#aboutus_text {
+    width: 70%;
+    height: 90%;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;   
+
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;  
+}
+
+#welcome {
+    width: 400px;
+    height: 100px;
+}
+
+#welcome img {
+    width: 100%;
+    height:auto;
+}
+
+#signature {
+    width: 250px;
+    height: 70px;
+
+    margin-top: 1%;
+}
+
+#signature img {
+    width: 100%;
+    height: auto;
+}
+
+#text_about {
+    width: 100%;
+}
+
+.about_us_text {
+    font-size: 120%;
+    font-family: Mate SC, sans-serif;
+    text-align: center;
+    width: 25%;
+}
+
+#about_left {
+    width: 45%;
+    float: left;
+    margin-left: 2%;
+}
+
+#about_right {
+    width: 45%;
+    float: right;
+    margin-right: 2%;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {

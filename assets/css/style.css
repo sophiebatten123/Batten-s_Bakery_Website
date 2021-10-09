@@ -80,6 +80,10 @@ h1, h2 {
 #navigation_style {
     background-color: #C7BF94;
     height: 75px;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
 }
 
 #navigation {
@@ -91,7 +95,7 @@ h1, h2 {
     float: right;
     list-style-type: none;
     letter-spacing: 2px;
-    padding: 3% 20px;
+    padding: 20px;
 }
 
 #navigation a {
@@ -155,6 +159,12 @@ h1, h2 {
     #signup_responsive {
         display: none;
     }
+    #navigation {
+        font-size: 150%;
+    }
+    #navigation li {
+        padding: 20px 10px;
+    }
 }
 
 @media screen and (max-width: 414px) {
@@ -163,5 +173,20 @@ h1, h2 {
     }
     #title {
         font-size: 180%;
+    }
+    #navigation {
+        font-size: 130%;
+    }
+    #navigation li {
+        padding: 20px 8px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    #navigation {
+        font-size: 120%;
+    }
+    #navigation li {
+        padding: 20px 4px;
     }
 }

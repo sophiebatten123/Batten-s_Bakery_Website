@@ -223,7 +223,7 @@ h1, h2 {
 
 #welcome {
     width: 400px;
-    height: 100px;
+    height: 70px;
 }
 
 #welcome img {
@@ -294,6 +294,9 @@ h1, h2 {
     #foreground_color_about {
         height: 520px;
     }
+    .about_us_text {
+        font-size: 110%;
+    }
 }
 
 @media screen and (max-width: 1070px) {
@@ -303,14 +306,26 @@ h1, h2 {
     #background_color {
         height: 530px;
     }
+    #aboutus_text {
+        width: 65%;
+    }
+    .about_us_text {
+        font-size: 100%;
+    }
 }
 
 @media screen and (max-width: 1010px) {
     #background_color {
-        height: 510px;
+        height: 530px;
     }
     #foreground_color_about {
-        height: 450px;
+        height: 480px;
+    }
+    #about_us_foreground_images {
+        display: none;
+    }
+    #aboutus_text {
+        width: 97%;
     }
 }
 
@@ -345,16 +360,25 @@ h1, h2 {
         padding: 6% 2%;
     }
     #background_color {
-        height: 450px;
+        height: 500px;
     }
     #foreground_color_about {
-        height: 400px;
+        height: 470px;
     }
 }
 
 @media screen and (max-width: 830px) {
     #about_us_foreground_images {
         display: none;
+    }
+}
+
+@media screen and (max-width: 760px) {
+    #background_color {
+        height: 580px;
+    }
+    #foreground_color_about {
+        height: 550px;
     }
 }
 
@@ -373,6 +397,12 @@ h1, h2 {
     }
     #cover_text {
         width: 50%;
+    }
+    #background_color {
+        height: 650px;
+    }
+    #foreground_color_about {
+        height: 600px;
     }
 }
 
@@ -399,6 +429,32 @@ h1, h2 {
         top: 65%;
         padding-bottom: 5%;
     }
+    #welcome {
+        padding-left: 30px;
+    }
+    #signature {
+        padding-left: 30px;
+    }
+    #about_left {
+        float: none;
+        width: 90%;
+    }
+    #about_right {
+        float: none;
+        width: 90%;
+    }
+    #text_about {
+        display: flex;
+        justify-content: center;
+        flex-flow: wrap;  
+        margin-left: 8%;
+    }
+    #background_color {
+        height: 730px;
+    }
+    #foreground_color_about {
+        height: 670px;
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -417,5 +473,26 @@ h1, h2 {
         height: 20%;
         top: 65%;
         padding-bottom: 5%;
+    }
+    .about_us_text {
+        font-size: 92%;
+    }
+    #welcome {
+        padding-left: 45px;
+    }
+    #text_about {
+        margin-left: 12%;
+    }
+    #background_color {
+        height: 750px;
+    }
+    #foreground_color_about {
+        height: 700px;
+    }
+    #about_left {
+        width: 95%;
+    }
+    #abut_right{
+        width: 95%;
     }
 }

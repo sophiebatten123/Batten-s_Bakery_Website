@@ -422,8 +422,7 @@ h1, h2 {
 }
 
 #afternoon_tea_joinus {
-    background-color: blue;
-    height: 100px;
+    height: 70px;
 }
 
 #afternoon_tea_joinus h2 {
@@ -438,7 +437,6 @@ h1, h2 {
     text-align: center;
     font-size: 120%;
     padding-top: 10px;
-    background-color: red;
 }
 
 #afternoon_tea_button {
@@ -467,6 +465,10 @@ h1, h2 {
 #afternoon_tea_button:hover {
     background-color: #C7BF94;
     cursor: pointer;
+}
+
+#short_text_join {
+    display: none;
 }
 
 /* Media Queries */
@@ -650,6 +652,14 @@ h1, h2 {
     #aboutus_text {
         width: 97%;
     }
+    #long_text_join {
+        display: none;
+    }
+    #short_text_join {
+        display: inline-block;
+        font-size: 200%;
+        padding-top: 5%;
+    }
 }
 
 @media screen and (max-width: 960px) {
@@ -721,6 +731,15 @@ h1, h2 {
     #afternoon_tea_foreground_text {
         width: 98%;
         margin-left: 1%;
+    }
+    #long_text_join {
+        display: inline-block;
+        font-size: 200%;
+        padding-top: 5%;
+    }
+    #short_text_join {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 760px) {
@@ -792,6 +811,20 @@ h1, h2 {
     }
     .click_here {
         font-size: 90%;
+    }
+    #long_text_join {
+        display: none;
+    }
+    #short_text_join {
+        display: inline-block;
+        font-size: 200%;
+        padding-top: 5%;
+    }
+    #afternoon_tea_text {
+        font-size: 100%;
+    }
+    #afternoon_tea_button {
+        width: 60%;
     }
 }
 
@@ -866,6 +899,9 @@ h1, h2 {
         height: 100px;
         width: 100px;
         margin: 3% 0.5%;
+    }
+    #afternoon_tea_button {
+        margin-top: 15%;
     }
 }
 

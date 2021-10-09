@@ -435,6 +435,27 @@ h1, h2 {
     }
 }
 
+@media screen and (max-width: 1580px) {
+    #foreground_selection {
+        top: 4%;
+        left: 1%;
+        height: 250px;
+        width: 97.5%;
+    }
+    #background_color_selection {
+        height: 280px;
+     }
+    .border {
+        height: 200px;
+        width: 200px;
+        margin: 1.5% .5%;
+    }
+    .container {
+        width: 200px;
+        height: 200px;
+    }
+}
+
 @media screen and (max-width: 1340px) {
     #media_platforms {
         left: 3%;
@@ -463,6 +484,24 @@ h1, h2 {
     }
     .about_us_text {
         font-size: 110%;
+    }
+    #foreground_selection {
+        top: 4%;
+        left: 1%;
+        height: 220px;
+        width: 97.5%;
+    }
+    #background_color_selection {
+        height: 250px;
+    }
+    .border {
+        height: 200px;
+        width: 200px;
+        margin: .5% .01%;
+    }
+    .container {
+        height: 200px;
+        width: 200px;
     }
 }
 

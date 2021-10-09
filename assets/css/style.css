@@ -471,6 +471,50 @@ h1, h2 {
     display: none;
 }
 
+#afternoon_tea_foreground_images {
+    width: 40%;
+    height: 90%;
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;   
+
+    float: right;
+}
+
+#afternoon_tea_img1 img {
+    width: 220px;
+    height: 330px;
+
+    z-index: 1;
+
+    margin-top: 4%;
+    margin-left: 8%;
+
+    border: 2px solid #808000;
+    padding: 1%;
+    border-radius: 3px;
+
+    box-sizing: border-box;
+}
+
+#afternoon_tea_img2 img {
+    width: 250px;
+    height: 313px; 
+
+    z-index:2;
+
+    margin-top: 48%;
+    margin-right: 8%;
+
+    border: 2px solid #808000;
+    padding: 1%;
+    border-radius: 3px;
+
+    box-sizing: border-box;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

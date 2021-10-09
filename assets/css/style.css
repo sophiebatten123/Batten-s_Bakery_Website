@@ -266,6 +266,39 @@ h1, h2 {
     margin-right: 2%;
 }
 
+#contact {
+    width: 100%;
+    margin-top: 2%;
+}
+
+#contact_us_button {
+    width: 20%;
+    height: 30px;
+
+    margin: 0 auto;
+    border: 2px solid #080808;
+    border-radius: 6px;
+    padding: 10px;
+
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;  
+
+    font-size: 170%;
+}
+
+#contact_us_button a {
+    text-decoration: none;
+    color: #080808;
+}
+
+#contact_us_button:hover {
+    background-color: #C7BF94;
+    cursor: pointer;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {

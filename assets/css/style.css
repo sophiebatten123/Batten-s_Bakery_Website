@@ -697,6 +697,12 @@ h1, h2 {
     #long_text {
         display: none;
     }
+    .contact_us > p {
+        font-size: 130%;
+    }
+    .contact_us > h3 {
+        font-size: 130%;
+    }
 }
 
 @media screen and (max-width: 1340px) {
@@ -767,6 +773,12 @@ h1, h2 {
         height: 230px;
         width: 230px;
     }
+    .contact_us > p {
+        font-size: 120%;
+    }
+    .contact_us > h3 {
+        font-size: 120%;
+    }
 }
 
 @media screen and (max-width: 1192px) {
@@ -776,6 +788,12 @@ h1, h2 {
     }
     #afternoon_tea_img2 img {
         display: none;
+    }
+    .contact_us > p {
+        font-size: 110%;
+    }
+    .contact_us > h3 {
+        font-size: 110%;
     }
 }
 
@@ -809,6 +827,12 @@ h1, h2 {
     .container {
         height: 220px;
         width: 220px;
+    }
+    .contact_us > p {
+        font-size: 100%;
+    }
+    .contact_us > h3 {
+        font-size: 100%;
     }
 }
 
@@ -898,6 +922,16 @@ h1, h2 {
     #afternoon_tea_foreground_images {
         height: 98%;
     }
+    #footer_media {
+        width: 24%;
+        padding-top: 8px;
+    }
+    .contact_us {
+        margin-left: 0;
+    }
+    #background_footer {
+        height: 90px;
+    }
 }
 
 @media screen and (max-width: 830px) {
@@ -948,6 +982,9 @@ h1, h2 {
     }
     #email_signup {
         width: 70%;
+    }
+    #footer_media {
+        width: 30%;
     }
 }
 
@@ -1010,6 +1047,9 @@ h1, h2 {
     }
     #email_signup {
         width: 85%;
+    }
+    #footer_media {
+        width: 35%;
     }
 }
 
@@ -1094,6 +1134,34 @@ h1, h2 {
     #email_signup input {
         font-size: 120%;
     }
+    #footer_media {
+        font-size: 70%;
+        float: none;
+        margin: 0 auto;
+    }
+    #background_footer {
+        height: 160px;
+
+        display: flex;
+        justify-content: center;
+        flex-flow: wrap; 
+    }
+    .contact_us {
+        margin: 0 auto;
+
+        display: flex;
+        justify-content: center;
+        flex-flow: wrap;   
+
+        padding-top: 0;
+    }
+    .contact_us p {
+        float: none;
+        text-align: center;
+    }
+    .contact_us h3 {
+        float: none;
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -1130,5 +1198,10 @@ h1, h2 {
     }
     .click_here {
         font-size: 60%;
+    }
+    #footer_media {
+        font-size: 60%;
+        width: 38%;
+        text-align: center;
     }
 }

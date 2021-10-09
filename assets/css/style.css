@@ -230,6 +230,30 @@ h1, h2 {
     #cover_text h2 {
         padding: 1%;
     }
+    #background_color {
+        height: 580px;
+    }
+    #foreground_color_about {
+        height: 520px;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    #foreground_color_about {
+        height: 480px;
+    }
+    #background_color {
+        height: 530px;
+    }
+}
+
+@media screen and (max-width: 1010px) {
+    #background_color {
+        height: 510px;
+    }
+    #foreground_color_about {
+        height: 450px;
+    }
 }
 
 @media screen and (max-width: 960px) {
@@ -261,6 +285,18 @@ h1, h2 {
         font-size: 110%;
         font-weight: bold;
         padding: 6% 2%;
+    }
+    #background_color {
+        height: 450px;
+    }
+    #foreground_color_about {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 830px) {
+    #about_us_foreground_images {
+        display: none;
     }
 }
 

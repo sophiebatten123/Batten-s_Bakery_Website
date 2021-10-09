@@ -396,6 +396,10 @@ h1, h2 {
     padding: 0;
 }
 
+#short_text {
+    display: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {

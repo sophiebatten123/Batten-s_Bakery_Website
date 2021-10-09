@@ -47,6 +47,22 @@ h1, h2 {
     padding: 5% 0;
 }
 
+#media_platforms {
+    position: absolute;
+    left: 8%;
+    top: 40%;
+}
+
+#media_platforms > li {
+    display: inline-block;
+}
+
+#media_platforms i {
+    font-size: 200%;
+    color: #080808;
+    letter-spacing: 20px;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 960px) {

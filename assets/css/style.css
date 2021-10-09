@@ -400,6 +400,27 @@ h1, h2 {
     display: none;
 }
 
+/*Styling to the Afternoon Tea section of the index page */
+
+#afternoon_tea_background {
+    width: 100%;
+    height: 500px;
+
+    background-color: #C7BF94;
+    padding-top: 2%;
+}
+
+#afternoon_tea_foreground_text {
+    width: 60%;
+    height: 90%;
+    background-color: white;
+    float: left;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;    
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

@@ -1,4 +1,4 @@
-/* styling being applied to the entire website */
+/* Styling being applied to the entire website */
 
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Mate+SC&display=swap');
 
@@ -21,7 +21,15 @@ h1, h2 {
     color: #080808;
 }
 
-/* styling being applied to the header and navigation sections */
+/* Styles used regularly throughout the website on multiple sections */
+
+.strip {
+    background-color: #F2EDD7;
+    height: 30px;
+    width: 100%;
+}
+
+/* Styling being applied to the header and navigation sections */
 
 #position {
     position: relative;
@@ -109,6 +117,47 @@ h1, h2 {
 
 .active {
     border-bottom: 2px solid white;
+}
+
+/* Styling of the main hero image and cover text */
+
+#main_image_outer {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+#main_image {
+    height: 100%;
+    width: 100%;
+    background: url('../images/pancakes.jpeg') no-repeat center center;
+    background-size: cover;
+    margin: auto;
+}
+
+#cover_text {
+    font-size: 190%;
+    font-family: Mate SC, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 38%;
+    height: 25%;
+    
+    clip-path: polygon(100% 0,100% 50%,100% 100%,0% 100%,14% 50%,0% 0%);
+    background-color: rgba(221 , 221 , 221 , .7);
+
+    position: absolute;
+    top: 60%;
+    right: 0;
+}
+
+#cover_text h2 {
+    float: right;
+    padding: 3% 5%;
+    color: #080808;
+    text-transform: none;
+    text-align: right;
 }
 
 /* Media Queries */

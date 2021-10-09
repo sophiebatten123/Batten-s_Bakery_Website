@@ -687,6 +687,14 @@ h1, h2 {
     margin: 1% auto;
 }
 
+#premium_afternoon_tea {
+    background-color: white;
+    border: 2px dashed #808000;
+    width: 80%;
+    height: 35%;
+    margin: 1% auto;
+}
+
 .price {
     color: #808000;
     font-style: italic;

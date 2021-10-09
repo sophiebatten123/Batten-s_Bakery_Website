@@ -20,3 +20,26 @@ h1, h2 {
     text-transform: uppercase;
     color: #080808;
 }
+
+/* styling being applied to the header and navigation sections */
+
+#position {
+    position: relative;
+    padding: 1% 0;
+}
+
+.center {
+    display: flex;
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+
+    background-color: white;
+}
+
+#title {
+    font-size: 300%;
+    float: left;
+    text-align: center;
+    padding: 5% 0;
+}

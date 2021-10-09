@@ -172,6 +172,16 @@ h1, h2 {
     #signup h2 {
         letter-spacing: 2px;
     }
+    #main_image_outer {
+        height: 300px;
+    }
+    #cover_text {
+        font-size: 130%;
+        height: 30%;
+    }
+    #cover_text h2 {
+        padding: 1%;
+    }
 }
 
 @media screen and (max-width: 960px) {
@@ -199,6 +209,11 @@ h1, h2 {
         top: 30%;
         right: 8%;
     }
+    #cover_text h2 {
+        font-size: 110%;
+        font-weight: bold;
+        padding: 6% 2%;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -213,6 +228,9 @@ h1, h2 {
     }
     #navigation li {
         padding: 20px 10px;
+    }
+    #cover_text {
+        width: 50%;
     }
 }
 
@@ -229,6 +247,16 @@ h1, h2 {
     #navigation li {
         padding: 20px 6px;
     }
+    #cover_text h2 {
+        font-size: 100%;
+        letter-spacing: 2px;
+    }
+    #cover_text {
+        width: 60%;
+        height: 20%;
+        top: 65%;
+        padding-bottom: 5%;
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -237,5 +265,15 @@ h1, h2 {
     }
     #navigation li {
         padding: 20px 4px;
+    }
+    #cover_text h2 {
+        font-size: 90%;
+        letter-spacing: 2px;
+    }
+    #cover_text {
+        width: 60%;
+        height: 20%;
+        top: 65%;
+        padding-bottom: 5%;
     }
 }

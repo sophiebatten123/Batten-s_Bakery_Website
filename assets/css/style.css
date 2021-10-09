@@ -299,6 +299,103 @@ h1, h2 {
     cursor: pointer;
 }
 
+/* Styling the customer favourites section on the main page and cake selection strip */
+
+.click_here {
+    text-align: center;
+    margin: 0 auto;
+    padding: 1.5% 0;
+    background-color: white;
+    font-size: 130%;
+}
+
+#background_color_selection {
+    background-color: #C7BF94;
+    height: 350px;
+    width: 100%;
+    position: relative;
+}
+
+#foreground_selection {
+    position: absolute;
+    top: 4%;
+    left: 1%;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+
+    background-color: white;
+    height: 325px;
+    width: 97.5%;
+}
+
+.border {
+    height: 300px;
+    width: 300px;
+    box-sizing: border-box;
+    float: left;
+    overflow: hidden;
+    margin: .5% .2%;
+    display: flex;
+    border: 1px solid white;
+    border-radius: 4px;
+    padding: 5px;
+}
+  
+.container {
+      width: 300px;
+      height: 300px;
+}
+
+#selection1 {
+    background: url('../images/selection1.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+#selection2 {
+    background: url('../images/selection2.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+#selection3 {
+    background: url('../images/selection3.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+#selection4 {
+    background: url('../images/selection4.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+#selection5 {
+    background: url('../images/selection5.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
+#selection6 {
+    background: url('../images/selection6.jpeg') no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    margin: auto;
+    padding: 0;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {

@@ -272,7 +272,7 @@ h1, h2 {
 }
 
 #contact_us_button {
-    width: 20%;
+    width: 50%;
     height: 30px;
 
     margin: 0 auto;
@@ -322,10 +322,10 @@ h1, h2 {
         padding: 1%;
     }
     #background_color {
-        height: 580px;
+        height: 600px;
     }
     #foreground_color_about {
-        height: 520px;
+        height: 570px;
     }
     .about_us_text {
         font-size: 110%;
@@ -334,10 +334,10 @@ h1, h2 {
 
 @media screen and (max-width: 1070px) {
     #foreground_color_about {
-        height: 480px;
+        height: 520px;
     }
     #background_color {
-        height: 530px;
+        height: 580px;
     }
     #aboutus_text {
         width: 65%;
@@ -393,10 +393,10 @@ h1, h2 {
         padding: 6% 2%;
     }
     #background_color {
-        height: 500px;
+        height: 530px;
     }
     #foreground_color_about {
-        height: 470px;
+        height: 500px;
     }
 }
 
@@ -483,10 +483,15 @@ h1, h2 {
         margin-left: 8%;
     }
     #background_color {
-        height: 730px;
+        height: 800px;
     }
     #foreground_color_about {
-        height: 670px;
+        height: 750px;
+    }
+    #contact_us_button {
+        width: 60%;
+        margin-left: 20%;
+        margin-top: 5%;
     }
 }
 
@@ -515,12 +520,6 @@ h1, h2 {
     }
     #text_about {
         margin-left: 12%;
-    }
-    #background_color {
-        height: 750px;
-    }
-    #foreground_color_about {
-        height: 700px;
     }
     #about_left {
         width: 95%;

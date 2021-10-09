@@ -902,6 +902,9 @@ h1, h2 {
         height: 160px;
         width: 160px;
     }
+    #email_signup {
+        width: 70%;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -960,6 +963,9 @@ h1, h2 {
     }
     #afternoon_tea_button {
         width: 60%;
+    }
+    #email_signup {
+        width: 85%;
     }
 }
 
@@ -1037,6 +1043,12 @@ h1, h2 {
     }
     #afternoon_tea_button {
         margin-top: 15%;
+    }
+    #email_signup {
+        width: 98%;
+    }
+    #email_signup input {
+        font-size: 120%;
     }
 }
 

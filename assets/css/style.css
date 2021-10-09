@@ -650,6 +650,16 @@ h1, h2 {
     }
 }
 
+@media screen and (max-width: 1192px) {
+    #afternoon_tea_img1 img {
+        margin-top: 20%;
+        margin-right: 5%
+    }
+    #afternoon_tea_img2 img {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 1070px) {
     #foreground_color_about {
         height: 520px;
@@ -766,6 +776,9 @@ h1, h2 {
     #afternoon_tea_text {
         font-size: 110%;
     }
+    #afternoon_tea_foreground_images {
+        height: 98%;
+    }
 }
 
 @media screen and (max-width: 830px) {
@@ -782,6 +795,9 @@ h1, h2 {
         padding-top: 5%;
     }
     #short_text_join {
+        display: none;
+    }
+    #afternoon_tea_foreground_images {
         display: none;
     }
 }

@@ -769,7 +769,7 @@ h1, h2 {
         margin-top: 5%;
     }
     .click_here {
-        font-size: 85%;
+        font-size: 75%;
     }
     #foreground_selection {
         height: 250px;
@@ -819,5 +819,8 @@ h1, h2 {
     }
     #abut_right{
         width: 95%;
+    }
+    .click_here {
+        font-size: 60%;
     }
 }

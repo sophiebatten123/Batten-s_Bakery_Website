@@ -160,6 +160,54 @@ h1, h2 {
     text-align: right;
 }
 
+/* Styling of the about us and welcome section of the website */
+
+#background_color {
+    height: 600px;
+    width: 100%;
+    background-color: #C7BF94;
+    position: relative;
+}
+
+#foreground_color_about {
+    height: 550px;
+    width: 98%;
+    background-color: white;
+    position: absolute;
+    top: 4%;
+    left: 1%;
+
+    background-color: white;
+}
+
+#about_us_foreground_images {
+    width: 25%;
+    height: 90%;
+
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;   
+    
+    float: left;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#about_us_img2 {
+    width: 300px;
+    height: 500px;
+    
+    margin-top: 3%;    
+}
+
+#about_us_img2 img {
+    width: 100%;
+    height: auto; 
+
+    border: 2px solid #808000;
+    padding: 1%;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1340px) {

@@ -707,7 +707,7 @@ h1, h2 {
     margin: 3% auto;
     
     padding: 5px;
-    width: 30%;
+    width: 80%;
     border: 2px solid #080808;
     border-radius: 6px;
 
@@ -738,7 +738,7 @@ h1, h2 {
 }
 
 #menu_download {    
-    width: 30%;
+    width: 80%;
     border: 2px solid #080808;
     border-radius: 6px;
 
@@ -861,6 +861,9 @@ h1, h2 {
     .contact_us > h3 {
         font-size: 130%;
     }
+    #menu_button {
+        margin-top: 5%;
+    }
 }
 
 @media screen and (max-width: 1340px) {
@@ -952,6 +955,9 @@ h1, h2 {
     }
     .contact_us > h3 {
         font-size: 110%;
+    }
+    #menu_button {
+        margin-top: 8%;
     }
 }
 
@@ -1094,9 +1100,6 @@ h1, h2 {
         height: 90px;
     }
     #menu_download {
-        width: 80%;
-    }
-    #menu_button {
         width: 80%;
     }
 }
@@ -1353,13 +1356,16 @@ h1, h2 {
         font-size: 120%;
     }
     #classic_afternoon_tea {
-        height: 27%;
+        height: 28%;
     }
     #premium_afternoon_tea {
-        height: 39%;
+        height: 40%;
     }
     #menu_button {
-        margin-top: 15%;
+        margin-top: 10%;
+    }
+    #extra_afternoon_tea {
+        height: 15%;
     }
 }
 
@@ -1402,5 +1408,27 @@ h1, h2 {
         font-size: 60%;
         width: 38%;
         text-align: center;
+    }
+    #menu_download {
+        width: 90%;
+    }
+    #menu_button {
+        width: 90%;
+        margin-top: 10%;
+    }
+    #classic_afternoon_tea {
+        height: 28%;
+    }
+    #premium_afternoon_tea {
+        height: 40%;
+    }
+    #extra_afternoon_tea {
+        height: 14%;
+    }
+    #menu_background {
+        height: 1950px;
+    }
+    #menu_forground {
+        height: 1925px;
     }
 }

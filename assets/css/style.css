@@ -950,6 +950,9 @@ h1, h2 {
         height: 200px;
         width: 200px;
     }
+    #heading_bookings {
+        padding-top: 3%;
+    }
 }
 
 @media screen and (max-width: 1250px) {
@@ -1286,6 +1289,12 @@ h1, h2 {
     }
 }
 
+@media screen and (max-width: 450px) {
+    #heading_bookings p {
+        font-size: 160%;
+    }
+}
+
 @media screen and (max-width: 414px) {
     .center {
         height: 70px;
@@ -1410,6 +1419,15 @@ h1, h2 {
     #extra_afternoon_tea {
         height: 15%;
     }
+    #heading_bookings p {
+        font-size: 140%;
+    }
+    #heading_bookings h2 {
+        font-size: 200%;
+    }
+    #heading_bookings {
+        height: 80px;
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -1473,5 +1491,11 @@ h1, h2 {
     }
     #menu_forground {
         height: 1925px;
+    }
+    #heading_bookings h2 {
+        font-size: 180%;
+    }
+    #heading_bookings p {
+        font-size: 130%;
     }
 }

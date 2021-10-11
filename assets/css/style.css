@@ -1166,6 +1166,12 @@ h1, h2 {
     #premium_afternoon_tea {
         height: 38%;
     }
+    #short_bookings_text {
+        display: inline;
+    }
+    #long_bookings_text {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 760px) {

@@ -1325,7 +1325,7 @@ h1, h2 {
     #bookings_container {
         height: 375px;
     }
-    #bookings_container {
+    #booking_images {
         display: none;
     }
 }

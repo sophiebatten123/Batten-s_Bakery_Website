@@ -933,6 +933,12 @@ h1, h2 {
     #menu_button {
         margin-top: 5%;
     }
+    #bookings_background {
+        height: 600px;
+    }
+    #bookings_container {
+        height: 575px;
+    }
 }
 
 @media screen and (max-width: 1340px) {
@@ -985,6 +991,12 @@ h1, h2 {
     #heading_bookings {
         padding-top: 3%;
     }
+    #bookings_background {
+        height: 550px;
+    }
+    #bookings_container {
+        height: 525px;
+    }
 }
 
 @media screen and (max-width: 1250px) {
@@ -1030,6 +1042,12 @@ h1, h2 {
     }
     #menu_button {
         margin-top: 8%;
+    }
+    #bookings_background {
+        height: 500px;
+    }
+    #bookings_container {
+        height: 475px;
     }
 }
 
@@ -1174,6 +1192,12 @@ h1, h2 {
     #menu_download {
         width: 80%;
     }
+    #bookings_background {
+        height: 425px;
+    }
+    #bookings_container {
+        height: 400px;
+    }
 }
 
 @media screen and (max-width: 830px) {
@@ -1205,6 +1229,15 @@ h1, h2 {
         display: inline;
     }
     #long_bookings_text {
+        display: none;
+    }
+    #bookings_background {
+        height: 400px;
+    }
+    #bookings_container {
+        height: 375px;
+    }
+    #bookings_container {
         display: none;
     }
 }

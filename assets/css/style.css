@@ -792,6 +792,43 @@ h1, h2 {
     font-size: 150%;
 }
 
+/* Styling of the bookings section of the website */
+
+#heading_bookings {
+    height: 120px;
+    width: 100%;
+    background-color: #F2EDD7;
+
+    border-bottom: 2px dashed #808000;
+
+    text-align: center;
+    padding-top: 1%;
+}
+
+#heading_bookings h2 {
+    font-size: 220%;
+}
+
+#heading_bookings p {
+    font-size: 180%;
+    color: #808000;
+    padding-top: 1%;
+}
+
+#heading_bookings a {
+    text-decoration: none;
+    color: #808000;
+}
+
+#heading_bookings a:hover {
+    border-bottom: 1px solid #808000;
+    cursor: pointer;
+}
+
+#short_bookings_text {
+    display: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

@@ -1129,7 +1129,7 @@ h1, h2 {
     text-transform: lowercase;
 }
 
-#image4 {
+#image1 {
     background: url('../images/selection4.jpeg') no-repeat center center;
     height: 45%;
     width: 45%;
@@ -1137,6 +1137,10 @@ h1, h2 {
     background-size: cover;
     text-align:center;
     padding:0;
+}
+
+.checked {
+    color: #f4ca16;
 }
 
 /* Media Queries */

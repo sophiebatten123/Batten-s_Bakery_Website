@@ -988,7 +988,6 @@ h1, h2 {
 }
 
 .booking_form_elements_adjacent {
-    width: 95;
     display: inline;
 }
 
@@ -1242,6 +1241,7 @@ h1, h2 {
     }
     .booking_form_elements_adjacent {
         display: inline-block;
+        width: 100%;
     }
     #adjacent_second_surname {
         padding: 0;

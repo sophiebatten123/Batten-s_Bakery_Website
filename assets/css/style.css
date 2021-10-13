@@ -1243,6 +1243,7 @@ h1, h2 {
     }
     .booking_form_elements_adjacent input {
         width: 100%;
+        margin-bottom: 1%;
     }
     #booking_images {
         display: none;
@@ -1399,12 +1400,9 @@ h1, h2 {
     #menu_download {
         width: 80%;
     }
-    #bookings_background {
-        height: 425px;
-    }
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 850px) {
     #about_us_foreground_images {
         display: none;
     }
@@ -1434,12 +1432,6 @@ h1, h2 {
     }
     #long_bookings_text {
         display: none;
-    }
-    #bookings_background {
-        height: 400px;
-    }
-    #bookings_background {
-        height: 500px;
     }
 }
 
@@ -1709,6 +1701,9 @@ h1, h2 {
     #circle_right {
         height: 80px;
         width: 80px;
+    }
+    #make_booking input {
+        width: 70%;
     }
 }
 

@@ -886,8 +886,8 @@ h1, h2 {
 }
 
 #bookings_border {
-    height: 675px;
     width: 95%;
+    height: 95%;
     border: 2px dashed #808000;
     border-radius: 4px;
 
@@ -965,7 +965,7 @@ h1, h2 {
 
 .booking_form_elements input {
     height: 30px;
-    width: 95%;
+    width: 100%;
     font-size: 140%;
     font-family: Mate SC, sans-serif;
     margin-top: 1%;
@@ -980,7 +980,7 @@ h1, h2 {
 }
 
 .booking_form_elements_adjacent {
-    width: 80%;
+    width: 100%;
     display: inline;
 }
 
@@ -995,16 +995,18 @@ h1, h2 {
 
     border: 2px solid #808000;
     border-radius: 4px;
+
+    padding: 3px;
 }
 
 #adjacent_second_surname {
     padding-left: 100px;
-    width: 41%;
+    width: 100%;
 }
 
 #adjacent_second_time {
     padding-left: 300px;
-    width: 41%;
+    width: 100%;
 }
 
 .small_screen_bookings {
@@ -1069,9 +1071,12 @@ h1, h2 {
     #afternoon_tea_button {
         margin-top: 8%;
     }
+    #adjacent_second_surname {
+        padding-left: 50px;
+    }
 }
 
-@media screen and (max-width: 1580px) {
+@media screen and (max-width: 1590px) {
     #foreground_selection {
         top: 4%;
         left: 1%;
@@ -1106,10 +1111,16 @@ h1, h2 {
         margin-top: 5%;
     }
     #bookings_background {
-        height: 600px;
+        height: 700px;
     }
     #bookings_container {
         height: 575px;
+    }
+    .booking_form_elements_adjacent input {
+        width: 25%;
+    }
+    #adjacent_second_time {
+        padding-left: 150px;
     }
 }
 
@@ -1164,7 +1175,7 @@ h1, h2 {
         padding-top: 3%;
     }
     #bookings_background {
-        height: 550px;
+        height: 675px;
     }
     #bookings_container {
         height: 525px;
@@ -1216,10 +1227,34 @@ h1, h2 {
         margin-top: 8%;
     }
     #bookings_background {
-        height: 500px;
+        height: 650px;
     }
     #bookings_container {
         height: 475px;
+    }
+    .booking_form_elements_adjacent {
+        display: inline-block;
+    }
+    #adjacent_second_surname {
+        padding: 0;
+    }
+    #adjacent_second_time {
+        padding: 0;
+    }
+    .booking_form_elements_adjacent input {
+        width: 100%;
+    }
+    #booking_images {
+        display: none;
+    }
+    #bookings_forground {
+        width: 98%;
+    }
+    #bookings_background {
+        height: 1000px;
+    }
+    #circles_outer {
+        height: 65%;
     }
 }
 
@@ -1367,9 +1402,6 @@ h1, h2 {
     #bookings_background {
         height: 425px;
     }
-    #bookings_container {
-        height: 400px;
-    }
 }
 
 @media screen and (max-width: 830px) {
@@ -1405,15 +1437,6 @@ h1, h2 {
     }
     #bookings_background {
         height: 400px;
-    }
-    #bookings_container {
-        height: 375px;
-    }
-    #booking_images {
-        display: none;
-    }
-    #bookings_forground {
-        width: 98%;
     }
     #bookings_background {
         height: 500px;

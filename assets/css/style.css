@@ -1609,6 +1609,9 @@ h1, h2 {
     #long_bookings_text {
         display: none;
     }
+    .border_recipes {
+        width:50%;
+    }
 }
 
 @media screen and (max-width: 760px) {
@@ -1892,6 +1895,11 @@ h1, h2 {
     #circle_right {
         height: 80px;
         width: 80px;
+    }
+    .border_recipes {
+        width:90%;
+        float: none;
+        margin: 0 auto;
     }
 }
 

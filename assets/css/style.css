@@ -1087,6 +1087,34 @@ h1, h2 {
     height: 100%;
 }
 
+.border_recipes {
+    width: 33.33%;
+    height: 100%;
+    box-sizing: border-box;
+    float:left;
+    overflow: hidden;
+    margin:0;
+
+    border: 2px dashed #808000;
+    position: relative;
+    background-color: white;
+
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#image4 {
+    background: url('../images/selection4.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

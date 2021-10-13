@@ -877,8 +877,17 @@ h1, h2 {
 }
 
 #circles_outer {
-    width: 95%;
+    width: 100%;
     height: 82%;
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+}
+
+#center_circles {
+    width: 100%;
+    height: 20%;
+
     display: flex;
     justify-content: center;
     flex-flow: wrap;
@@ -964,7 +973,7 @@ h1, h2 {
 
 .booking_form_elements input {
     height: 30px;
-    width: 100%;
+    width: 93%;
     font-size: 140%;
     font-family: Mate SC, sans-serif;
     margin-top: 1%;
@@ -979,7 +988,7 @@ h1, h2 {
 }
 
 .booking_form_elements_adjacent {
-    width: 100%;
+    width: 95;
     display: inline;
 }
 
@@ -1241,7 +1250,7 @@ h1, h2 {
         padding: 0;
     }
     .booking_form_elements_adjacent input {
-        width: 100%;
+        width: 93%;
         margin-bottom: 1%;
     }
     #booking_images {

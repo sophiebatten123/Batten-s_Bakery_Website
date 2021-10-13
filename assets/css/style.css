@@ -1129,6 +1129,56 @@ h1, h2 {
     text-transform: lowercase;
 }
 
+#image6 {
+    background: url('../images/selection6.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
+#image5 {
+    background: url('../images/selection5.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
+#image4 {
+    background: url('../images/selection4.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
+#image3 {
+    background: url('../images/selection3.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
+#image2 {
+    background: url('../images/selection5.jpeg') no-repeat center center;
+    height: 45%;
+    width: 45%;
+    border-radius: 50%;
+    background-size: cover;
+    text-align:center;
+    padding:0;
+}
+
 #image1 {
     background: url('../images/selection4.jpeg') no-repeat center center;
     height: 45%;

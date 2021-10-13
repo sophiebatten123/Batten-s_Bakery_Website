@@ -1042,6 +1042,37 @@ h1, h2 {
     background-color: #C7BF94;
 }
 
+/*Styling the recipes page*/
+
+#heading_recipes {
+    height: 120px;
+    width: 100%;
+    background-color: #F2EDD7;
+
+    text-align: center;
+    padding-top: 1%;
+}
+
+#heading_recipes h2 {
+    font-size: 220%;
+}
+
+#heading_recipes p {
+    font-size: 180%;
+    color: #808000;
+    padding-top: 1%;
+}
+
+#heading_recipes a {
+    text-decoration: none;
+    color: #808000;
+}
+
+#heading_recipes a:hover {
+    border-bottom: 1px solid #808000;
+    cursor: pointer;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

@@ -1073,6 +1073,10 @@ h1, h2 {
     cursor: pointer;
 }
 
+#short_text_recipes {
+    display: none;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {
@@ -1508,6 +1512,12 @@ h1, h2 {
     #classic_afternoon_tea {
         height: 29%;
     }
+    #short_text_recipes {
+        display: inline;
+    }
+    #long_text_recipes {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -1589,6 +1599,9 @@ h1, h2 {
     }
     #make_booking input {
         width: 70%;
+    }
+    #heading_recipes h2 {
+        font-size: 200%;
     }
 }
 

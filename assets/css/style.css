@@ -1274,6 +1274,15 @@ h1, h2 {
     font-size: 120%;
 }
 
+#main_recipe_heading {
+    padding-top: 30px;
+}
+
+#main_recipe_heading h2 {
+    text-align: center;
+    font-size: 200%;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

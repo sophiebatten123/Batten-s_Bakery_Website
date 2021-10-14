@@ -1506,7 +1506,9 @@ h1, h2 {
     .contact_us > h3 {
         font-size: 120%;
     }
-    
+    #background_recipes_page {
+        height: 900px;
+    }
 }
 
 @media screen and (max-width: 1192px) {

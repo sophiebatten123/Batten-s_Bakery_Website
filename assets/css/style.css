@@ -1572,6 +1572,17 @@ h1, h2 {
         padding: 2%;
         font-size: 120%;
     }
+    #ingredients {
+        padding-top: 0;
+    }
+    #ingredients h3 {
+        padding-bottom: 2%;
+    }
+    #position_ingredients {
+        height: 250px;
+        width: 100%;
+        float: left;
+    }
 }
 
 @media screen and (max-width: 1010px) {
@@ -1753,6 +1764,11 @@ h1, h2 {
     }
     #image1_recipe {
         width: 25%;
+    }
+    #position_ingredients {
+        width: 50%;
+        float: none;
+        text-align: center;
     }
 }
 
@@ -2019,6 +2035,9 @@ h1, h2 {
     }
     #image1_recipe {
         width: 45%;
+    }
+    #ingredients p {
+        font-size: 100%;
     }
 }
 

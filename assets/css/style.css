@@ -1260,6 +1260,20 @@ h1, h2 {
     padding:0;
 }
 
+#ingredients {
+    padding-top: 5%;
+}
+
+#ingredients h3 {
+    font-size: 150%;
+    padding-bottom: 5%;
+    text-decoration: underline;
+}
+
+#ingredients p {
+    font-size: 120%;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {

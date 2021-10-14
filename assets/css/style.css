@@ -1304,6 +1304,21 @@ h1, h2 {
     padding: 15px;
 }
 
+#main_recipe_steps {
+    width: 68%;
+    float: right;
+}
+
+#main_recipe_steps h3 {
+    font-size: 150%;
+    padding-bottom: 0.2%;
+    text-decoration: underline;
+}
+
+#main_recipe_steps p {
+    font-size: 120%;
+}
+
 /* Media Queries */
 
 @media screen and (max-width: 1900px) {
@@ -1464,9 +1479,6 @@ h1, h2 {
     .border_recipes p {
         display: none;
     }
-    #image1_recipe {
-        height: 30%;
-    } 
 }
 
 @media screen and (max-width: 1250px) {
@@ -1636,6 +1648,9 @@ h1, h2 {
         margin-bottom: 5%;
     }
     #icons_recipe {
+        display: none;
+    }
+    #main_recipe_steps {
         display: none;
     }
 }

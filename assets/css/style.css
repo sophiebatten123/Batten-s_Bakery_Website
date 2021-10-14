@@ -1554,6 +1554,10 @@ h1, h2 {
     #image1_recipe {
         width: 20%;
     } 
+    .recipe_ratings {
+        padding: 2%;
+        font-size: 120%;
+    }
 }
 
 @media screen and (max-width: 1010px) {

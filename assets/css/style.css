@@ -1218,6 +1218,7 @@ h1, h2 {
     height: 600px;
     border: 2px dashed #808000;
     display: inline-block;
+    box-sizing: border-box;
 }
 
 #forground_recipes_page {
@@ -1239,6 +1240,13 @@ h1, h2 {
     flex-flow: column;
     align-items: center;
     padding: 2%;
+
+    box-sizing: border-box;
+}
+
+.recipe_ratings {
+    font-size: 150%;
+    padding: 4%;
 }
 
 
@@ -1538,11 +1546,9 @@ h1, h2 {
     }
     #border_recipes_page {
         width: 100%;
-        box-sizing: border-box;
         border: 2px dashed #808000;
     }
     #background_recipes_page {
-        box-sizing: border-box;
         border: none;
     }
     #image1_recipe {

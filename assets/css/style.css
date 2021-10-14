@@ -1245,7 +1245,7 @@ h1, h2 {
 #image1_recipe {
     background: url('../images/selection1.jpeg') no-repeat center center;
     height: 45%;
-    width: 45%;
+    width: 55%;
     border-radius: 50%;
     background-size: cover;
     text-align:center;
@@ -1345,6 +1345,9 @@ h1, h2 {
     .background_recipes {
         height: 500px;
     }
+    #image1_recipe {
+        height: 40%;
+    } 
 }
 
 @media screen and (max-width: 1340px) {
@@ -1409,6 +1412,9 @@ h1, h2 {
     .border_recipes p {
         display: none;
     }
+    #image1_recipe {
+        height: 30%;
+    } 
 }
 
 @media screen and (max-width: 1250px) {
@@ -1530,6 +1536,18 @@ h1, h2 {
     #premium_afternoon_tea {
         height: 36%;
     }
+    #border_recipes_page {
+        width: 100%;
+        box-sizing: border-box;
+        border: 2px dashed #808000;
+    }
+    #background_recipes_page {
+        box-sizing: border-box;
+        border: none;
+    }
+    #image1_recipe {
+        width: 20%;
+    } 
 }
 
 @media screen and (max-width: 1010px) {
@@ -1709,6 +1727,9 @@ h1, h2 {
     #long_text_recipes {
         display: none;
     }
+    #image1_recipe {
+        width: 25%;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -1793,6 +1814,9 @@ h1, h2 {
     }
     #heading_recipes h2 {
         font-size: 200%;
+    }
+    #image1_recipe {
+        width: 30%;
     }
 }
 
@@ -1969,6 +1993,9 @@ h1, h2 {
     #heading_recipes {
         height: 130px;
     }
+    #image1_recipe {
+        width: 45%;
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -2038,5 +2065,8 @@ h1, h2 {
     }
     #heading_bookings p {
         font-size: 130%;
+    }
+    #image1_recipe {
+        width: 60%;
     }
 }

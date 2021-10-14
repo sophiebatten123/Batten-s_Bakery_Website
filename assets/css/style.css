@@ -1615,6 +1615,7 @@ h1, h2 {
         width: 70%;
         float: right;
         display: inline;
+        text-align: center;
     }
     #main_recipe_heading {
         display: none;
@@ -1810,6 +1811,14 @@ h1, h2 {
         float: none;
         text-align: center;
     }
+    #main_recipe_steps_smallscreen {
+        width: 50%;
+        float: none;
+        text-align: center;
+    }
+    #main_recipe_steps_smallscreen h2 {
+        padding-top: 30px;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -1903,6 +1912,9 @@ h1, h2 {
 @media screen and (max-width: 450px) {
     #heading_bookings p {
         font-size: 160%;
+    }
+    #center_recipe_images {
+        height: 50%;
     }
 }
 

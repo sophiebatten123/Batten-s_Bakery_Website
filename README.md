@@ -130,3 +130,12 @@ Some alterations were made from the original wireframe designs to improve User E
 ## Sign Up
 
 - The Newsletter Section allows the user to sign up to Batten's Bakery giving then new recipes and discounts to afternoon tea straight to their imbox. This section is responsible for enticing the user to revisit the site in the future hence why it features on all of the main pages on the website.
+
+# Footer Section
+
+![Footer](assets/images/footer_section.PNG)
+
+## Social Media Platforms
+
+- The Footer Section includes links to the relevant social media platforms. These links open in a new tab which allows easy navigation for the user and prevents then leaving the site.
+- This is a valuable section of the website as it allows the user to view more testomonials and information about the bakery.

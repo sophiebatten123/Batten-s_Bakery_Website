@@ -60,3 +60,19 @@ The site itself is fully responsive and deisgned in a simplistic and easy to nav
 ![Navigation-Bar](assets/images/navbar.PNG)
 
 - The navigation bar consistently appears on all of the pages and contains links to the home, menu, bookings and recipes pages which alows for easy navigation around the website. When the user hovers over the navigation section a solid white line appears under the text and remains there on the 'active' webpage. This simplistic addition suits the elegance of the website as opposed to a solid background colour.
+
+# Wireframes
+
+To ensure efficiency in my coding of the website I created wireframes for each page to give an outline of what each page should look like and the layout of text and images. The links to these can be found below both for desktop and mobile devices.
+
+## Desktop Wireframes
+
+[Index-Page](assets/images/main_web_template.PNG)
+
+[Menu-Page](assets/images/menu_web_template.PNG)
+
+[Bookings-Page](assets/images/bookings_web_template.PNG)
+
+[Recipes-Page](assets/images/recipes_web_template.PNG)
+
+[Recipe-Steps-Pages](assets/images/recipessteps_web_template.PNG)

@@ -146,3 +146,10 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Menu Section of the website allows the user to view and download Batten's Bakery website allowing them to choose food and check dietery requirements before visiting. 
 - Users should be well informed as a result of this page and as a result want to book for afternoon tea.
+
+# Bookings Section
+
+![Bookings](assets/images/bookings_section.PNG)
+
+- The Bookings Section includes a form which is editable to the user. It is simple to fill out and allows the user to select a time, date and specify the number of people attending (limited to 6 people).
+- This section is easy to navigate making users more likely to reserve a table.

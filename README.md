@@ -160,3 +160,11 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Recipes Section conatins 6 baking ideas for users to try at home. This section was made upon request of the client who wanted customers to have the option to bake from home whilst in lockdown. It aims at promoting the companys bakes by getting users to share thier bakes on social media with the hashtag #battensbakes.
 - Each recipe contains a star rating, time frame and dietery requirements ensuring the customers needs are met on each page.
+
+# Baking Steps Sections
+
+![Baking-Steps](assets/images/recipe_steps.PNG)
+
+- The Baking Steps Sections contain different recipes chosen from the recipes page broke down into ingredients and method sections.
+- Steps have been ordered to ensure users do them sequentially.
+- At the bottom of each recipe users are encouraged to share their bakes on social media to promote Batten's Bakery further.

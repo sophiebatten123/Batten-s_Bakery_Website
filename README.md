@@ -76,3 +76,21 @@ To ensure efficiency in my coding of the website I created wireframes for each p
 [Recipes-Page](assets/images/recipes_web_template.PNG)
 
 [Recipe-Steps-Pages](assets/images/recipessteps_web_template.PNG)
+
+## Mobile Wireframes
+ 
+[Index-Page](assets/images/main_phone_template.PNG)
+
+[Menu-Page](assets/images/menu_phone_template.PNG)
+
+[Bookings-Page](assets/images/bookings_phone_template.PNG)
+
+[Recipes-Page](assets/images/recipes_phone_template.PNG)
+
+[Recipe-Steps-Pages](assets/images/recipessteps_phone_template.PNG)
+
+Some alterations were made from the original wireframe designs to improve User Experience (UX). These include:
+
+- Padding colours were used in between each section of the website to create consistency between each section.
+- The menu section was split into 3 parts ensuring users were not overwhelmed with solid text.
+- Above the 'Our Cakes' section a heading was added giving users understanding of what the section was about and a link created below.

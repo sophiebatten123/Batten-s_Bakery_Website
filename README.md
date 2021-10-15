@@ -26,3 +26,15 @@ The site itself is fully responsive and deisgned in a simplistic and easy to nav
 - As a Frequent User, I want to be able to download the afternoon tea menu to save time finding the page in the future.
 - As a Frequent User, I want to be able to check if there are any new recipes and be notified of this through the newsletter.
 - As a Frequent User, I want to be able to challenge my baking skils and try more recipes catering for large groups.
+
+# Design
+
+## Colour Scheme
+
+![Colour Scheme](assets/images/colourpalette.PNG)
+
+- The sites primary colours are green, cream, black and white. The image above displays the original colour scheme which was chosen for the website. It uses a wide range of pastel shades to create a soft texture to the website; whilst also ensuring that text is clear and readable. 
+
+- The websites main text was written against a white background this was due to the contrast against the green making it stand out to the user on the page. 
+
+- The colour pallete was chosen and matched using [coolors.co](https://coolors.co/).

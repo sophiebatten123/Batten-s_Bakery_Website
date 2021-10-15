@@ -112,3 +112,13 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Customer Favourites Section is eye catching to the user and contains a strip of delicious cakes that are individually linked to the step by step recipe guide.
 - Users should be drawn to this section of the website due to the vibrant use of colour against a nuetral background. This should encourage then to either want to try the cakes fresh from the bakery or bake their own at home.
+
+# Join Us Section
+
+![Join-Us](assets/images/joinus_screenshot.PNG)
+
+## Afternoon Tea
+
+- The Join Us Section aims to entice the reader to book in for afternoon tea at Batten's Bakery. It contains information about what there is to offer along with testomonials from customers.
+- Users are then given the option to reserve a table using a linked button to the booking page.
+- Images have been carefully selected to blend with the colours of the website whilst also being relevant to the section and encouraging the user to book.

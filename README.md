@@ -122,3 +122,11 @@ Some alterations were made from the original wireframe designs to improve User E
 - The Join Us Section aims to entice the reader to book in for afternoon tea at Batten's Bakery. It contains information about what there is to offer along with testomonials from customers.
 - Users are then given the option to reserve a table using a linked button to the booking page.
 - Images have been carefully selected to blend with the colours of the website whilst also being relevant to the section and encouraging the user to book.
+
+# Newsletter Section
+
+![Newsletter-Sign-Up](assets/images/newsletter_screenshot.PNG)
+
+## Sign Up
+
+- The Newsletter Section allows the user to sign up to Batten's Bakery giving then new recipes and discounts to afternoon tea straight to their imbox. This section is responsible for enticing the user to revisit the site in the future hence why it features on all of the main pages on the website.

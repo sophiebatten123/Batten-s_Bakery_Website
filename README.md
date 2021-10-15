@@ -139,3 +139,10 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Footer Section includes links to the relevant social media platforms. These links open in a new tab which allows easy navigation for the user and prevents then leaving the site.
 - This is a valuable section of the website as it allows the user to view more testomonials and information about the bakery.
+
+# Menu Section
+
+![Menu](assets/images/afternoon_tea_menu.PNG)
+
+- The Menu Section of the website allows the user to view and download Batten's Bakery website allowing them to choose food and check dietery requirements before visiting. 
+- Users should be well informed as a result of this page and as a result want to book for afternoon tea.

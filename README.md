@@ -103,3 +103,12 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Welcome Section of the site introduces users to Batten's Bakery and gives a personalised feel to the website containing a hand written welcome message and signature. 
 - Users are given the option to contact us for more information. The button jumps to the footer of the page containing contact numbers and social media links.
+
+# Customer Favourites Section
+
+![Customer-Favourites](assets/images/customer_favs.PNG)
+
+## Cake Strip
+
+- The Customer Favourites Section is eye catching to the user and contains a strip of delicious cakes that are individually linked to the step by step recipe guide.
+- Users should be drawn to this section of the website due to the vibrant use of colour against a nuetral background. This should encourage then to either want to try the cakes fresh from the bakery or bake their own at home.

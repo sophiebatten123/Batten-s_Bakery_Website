@@ -94,3 +94,12 @@ Some alterations were made from the original wireframe designs to improve User E
 - Padding colours were used in between each section of the website to create consistency between each section.
 - The menu section was split into 3 parts ensuring users were not overwhelmed with solid text.
 - Above the 'Our Cakes' section a heading was added giving users understanding of what the section was about and a link created below.
+
+# About Us Section
+
+![About-Us](assets/images/about_us.PNG)
+
+## Welcome
+
+- The Welcome Section of the site introduces users to Batten's Bakery and gives a personalised feel to the website containing a hand written welcome message and signature. 
+- Users are given the option to contact us for more information. The button jumps to the footer of the page containing contact numbers and social media links.

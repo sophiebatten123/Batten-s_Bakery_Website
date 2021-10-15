@@ -38,3 +38,11 @@ The site itself is fully responsive and deisgned in a simplistic and easy to nav
 - The websites main text was written against a white background this was due to the contrast against the green making it stand out to the user on the page. 
 
 - The colour pallete was chosen and matched using [coolors.co](https://coolors.co/).
+
+## Typography 
+
+![Typography](assets/images/heading.PNG)
+
+![Typography](assets/images/welcome_typo.PNG)
+
+- The main font used throughout the whole wesbite was 'Mate SC' with Sans Serif as a fall back font in the rare instance that the font is incorrectly imported onto the site. Alongside this font some hand written text was written to create a more personalised feel to the website whilst also contrasting nicely against the hard edges of 'Mate SC'. Both of these text styles are easy to read and suited the style of the website.

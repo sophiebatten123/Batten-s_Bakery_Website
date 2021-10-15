@@ -153,3 +153,10 @@ Some alterations were made from the original wireframe designs to improve User E
 
 - The Bookings Section includes a form which is editable to the user. It is simple to fill out and allows the user to select a time, date and specify the number of people attending (limited to 6 people).
 - This section is easy to navigate making users more likely to reserve a table.
+
+# Recipes Section
+
+![Recipes](assets/images/recipes_section.PNG)
+
+- The Recipes Section conatins 6 baking ideas for users to try at home. This section was made upon request of the client who wanted customers to have the option to bake from home whilst in lockdown. It aims at promoting the companys bakes by getting users to share thier bakes on social media with the hashtag #battensbakes.
+- Each recipe contains a star rating, time frame and dietery requirements ensuring the customers needs are met on each page.

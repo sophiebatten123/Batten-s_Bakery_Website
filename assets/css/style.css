@@ -444,8 +444,12 @@ h1, h2 {
     padding-top: 10px;
 }
 
+#reserve {
+    width: 500px;
+}
+
 #afternoon_tea_button {
-    width: 40%;
+    width: 100%;
     height: 30px;
 
     margin: 0 auto;
@@ -462,7 +466,7 @@ h1, h2 {
     font-size: 170%;
 }
 
-#afternoon_tea_button a {
+#reserve a {
     text-decoration: none;
     color: #080808;
 }

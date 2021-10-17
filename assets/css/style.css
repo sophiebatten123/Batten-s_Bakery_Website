@@ -2059,7 +2059,8 @@ h1, h2 {
         width: 85%;
     }
     #footer_media {
-        width: 35%;
+        width: 40%;
+        text-align: center;
     }
     #classic_afternoon_tea {
         height: 30%;

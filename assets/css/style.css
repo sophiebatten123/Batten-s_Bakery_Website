@@ -1017,7 +1017,7 @@ h1, h2 {
 }
 
 #menu_download_bookings {    
-    width: 100%;
+    width: 80%;
     border: 2px solid #080808;
     border-radius: 6px;
 
@@ -1030,11 +1030,11 @@ h1, h2 {
     justify-content: center;
     flex-flow: wrap;
 
-    font-size: 180%;
+    font-size: 150%;
     text-align: center;
     background-color: white;
-
-    margin-top: 50px;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 #menu_download_outer_bookings a {
@@ -1048,9 +1048,18 @@ h1, h2 {
 }
 
 #bookings_download_text {
-    margin-top: 50px;
     text-align: center;
     font-size: 150%;
+}
+
+#download_bookings {
+    background-color: white;
+    border: 2px dashed #808000;
+    border-radius: 4px;
+
+    margin-top: 10%;
+    padding: 40px 20px;
+   
 }
 
 /*Styling the recipes page*/

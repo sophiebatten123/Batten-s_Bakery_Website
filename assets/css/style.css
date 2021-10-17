@@ -314,6 +314,11 @@ h1, h2 {
     color: #808000;
 }
 
+
+.click_here a:hover {
+    border-bottom: 2px solid #808000;
+}
+
 #background_color_selection {
     background-color: #C7BF94;
     height: 350px;

@@ -306,7 +306,6 @@ h1, h2 {
     margin: 0 auto;
     padding: 1.5% 0;
     background-color: white;
-    font-size: 130%;
 }
 
 .click_here a {
@@ -2179,7 +2178,7 @@ h1, h2 {
         margin-top: 5%;
     }
     .click_here {
-        font-size: 75%;
+        font-size: 70%;
     }
     #foreground_selection {
         height: 250px;
@@ -2363,7 +2362,7 @@ h1, h2 {
         width: 95%;
     }
     .click_here {
-        font-size: 60%;
+        font-size: 55%;
     }
     #footer_media {
         font-size: 60%;

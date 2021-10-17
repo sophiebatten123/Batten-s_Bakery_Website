@@ -1009,6 +1009,7 @@ h1, h2 {
 
     border: 2px solid #080808;
     border-radius: 4px;
+    background-color: white;
 }
 
 #make_booking input:hover{
@@ -1023,8 +1024,6 @@ h1, h2 {
 
     padding: 5px;
     margin: 1% auto;
-
-    background-color: white;
 
     display: flex;
     justify-content: center;
@@ -1430,9 +1429,6 @@ h1, h2 {
     #afternoon_tea_button {
         margin-top: 8%;
     }
-    #adjacent_second_surname {
-        padding-left: 50px;
-    }
     .background_recipes {
         height: 550px;
     }
@@ -1477,12 +1473,6 @@ h1, h2 {
     }
     #bookings_container {
         height: 575px;
-    }
-    .booking_form_elements_adjacent input {
-        width: 25%;
-    }
-    #adjacent_second_time {
-        padding-left: 150px;
     }
     .background_recipes {
         height: 500px;
@@ -1645,20 +1635,6 @@ h1, h2 {
     #bookings_container {
         height: 475px;
     }
-    .booking_form_elements_adjacent {
-        display: inline-block;
-        width: 100%;
-    }
-    #adjacent_second_surname {
-        padding: 0;
-    }
-    #adjacent_second_time {
-        padding: 0;
-    }
-    .booking_form_elements_adjacent input {
-        width: 93%;
-        margin-bottom: 1%;
-    }
     #booking_images {
         display: none;
     }
@@ -1666,7 +1642,7 @@ h1, h2 {
         width: 98%;
     }
     #circles_outer {
-        height: 65%;
+        height: 40%;
     }
 }
 
@@ -2097,7 +2073,7 @@ h1, h2 {
         width: 98%;
     }
     #bookings_background {
-        height: 950px;
+        height: 850px;
     }
     #make_booking input {
         width: 70%;

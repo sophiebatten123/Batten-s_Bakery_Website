@@ -728,7 +728,7 @@ h1, h2 {
     font-size: 170%;
 }
 
-#menu_button a {
+#menu_button_outer a {
     text-decoration: none;
     color: #080808;
 }
@@ -737,9 +737,8 @@ h1, h2 {
     background-color: #C7BF94;
 }
 
-#menu_button h2 {
+#menu_button {
     font-size: 180%;
-    float: left;
     text-align: center;
     background-color: white;
     padding:2px;
@@ -763,14 +762,13 @@ h1, h2 {
     text-align: center;
 }
 
-#menu_download a {
+#menu_download_outer a {
    text-decoration: none;
    color: #080808;
 }
 
-#menu_download h2 {
+#menu_download {
     font-size: 180%;
-    float: left;
     text-align: center;
     background-color: white;
     padding:2px;

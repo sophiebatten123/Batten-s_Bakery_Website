@@ -314,9 +314,18 @@ h1, h2 {
     color: #808000;
 }
 
-
 .click_here a:hover {
     border-bottom: 2px solid #808000;
+}
+
+.click_here h2 {
+    display: inline;
+}
+
+.heart_text {
+    display: inline;
+    font-size: 150%;
+    padding: 10px;
 }
 
 #background_color_selection {

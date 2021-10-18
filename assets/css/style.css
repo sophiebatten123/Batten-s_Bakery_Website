@@ -326,7 +326,7 @@ h1, h2 {
     background-color: white;
 }
 
-.click_here a:hover {
+.click_here_link:hover {
     border-bottom: 2px solid #808000;
 }
 
@@ -342,15 +342,16 @@ h1, h2 {
 
 #long_text a {
     text-decoration: none;
+    color: #080808;
 }
 
 #short_text a {
-    text-decoration: none;
+    display: none;
 }
 
 .heart_text {
     display: inline;
-    font-size: 150%;
+    font-size: 30px;
     padding: 10px;
 }
 
@@ -440,11 +441,6 @@ h1, h2 {
     margin: auto;
     padding: 0;
 }
-
-#short_text {
-    display: none;
-}
-
 
 /*Styling to the Afternoon Tea section of the index page */
 
@@ -1451,7 +1447,9 @@ h1, h2 {
         width: 200px;
         height: 200px;
     }
-    #short_text {
+    #short_text a {
+        text-decoration: none;
+        color: #080808;
         display: inline-block;
     }
     #long_text {

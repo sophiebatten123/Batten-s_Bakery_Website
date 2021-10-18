@@ -4,9 +4,9 @@
 
 # Overview
 
-[Batten's Bakery]() is a Bakery Website aimed at enticing customers to book in for its famous afternoon tea. It promotes delicious cakes and scrumptious pasteries with an added lockdown twist, allowing customers to bake their favourites whilst in the comfort of their own home. Batten's Bakery caters for many dietary requirements including vegetarian, vegan and gluten free options in all its recipes.
+[Batten's Bakery]() is a Bakery Website aimed at enticing customers to book in for its famous afternoon tea. It promotes delicious cakes and scrumptious pastries with an added lockdown twist, allowing customers to bake their favourites whilst in the comfort of their own home. Batten's Bakery caters for many dietary requirements including vegetarian, vegan and gluten free options in all its recipes.
 
-The site itself is fully responsive and designed in a simplistic and easy to navigate manner. It has been coded using solely HTML and CSS and therefore although it has 'form' elements on the website, due to no back-end fuctionality the entered fields will not be sent anywhere.
+The site itself is fully responsive and designed in a simplistic and easy to navigate manner. It has been coded using solely HTML and CSS and therefore although it has 'form' elements on the website, due to no back-end functionality the entered fields will not be sent anywhere.
 
 # UX 
 
@@ -25,7 +25,7 @@ The site itself is fully responsive and designed in a simplistic and easy to nav
 ### Frequent User Goals:
 - As a Frequent User, I want to be able to download the afternoon tea menu.
 - As a Frequent User, I want to be able to check if there are any new recipes and be notified of this through the newsletter.
-- As a Frequent User, I want to be able to challenge my baking skils and try more recipes catering for large groups.
+- As a Frequent User, I want to be able to challenge my baking skills and try more recipes catering for large groups.
 
 # Design
 
@@ -45,7 +45,7 @@ The site itself is fully responsive and designed in a simplistic and easy to nav
 
 ![Typography](assets/images/welcome_typo.PNG)
 
-- The main font used throughout the whole wesbite was 'Mate SC' with 'Sans Serif' as a fallback font. Alongside this font some handwritten text was included to create a personalised feel to the website and contrast nicely against the hard edges of 'Mate SC'. Both of these text styles are easy to read and suited the style of the website.
+- The main font used throughout the whole website was 'Mate SC' with 'Sans Serif' as a fallback font. Alongside this font some handwritten text was included to create a personalised feel to the website and contrast nicely against the hard edges of 'Mate SC'. Both text styles are easy to read and suited the style of the website.
 
 ## Imagery
 
@@ -53,13 +53,13 @@ The site itself is fully responsive and designed in a simplistic and easy to nav
 
 ![Imagery](assets/images/image2.PNG)
 
-- The images on the website were carefuly and deliberately choosen to blend with the colour scheme. The intial large heading image captures the users attention whilst also working in unison with the rest of the page. Images on the recipes pages were chosen to entice the user and therefore look delicious!
+- The images on the website were carefully and deliberately chosen to blend with the colour scheme. The initial large heading image captures the user's attention whilst also working in unison with the rest of the page. Images on the recipe's pages were chosen to entice the user and therefore look delicious!
 
 ## Navigation Bar
 
 ![Navigation-Bar](assets/images/navbar.PNG)
 
-- The navigation bar consistently appears on all of the pages and contains links to the Home, Menu, Bookings and Recipes pages. Having this on every page alLows the user to easily navigate around the website. When the user hovers over the navigation section a solid white line appears under the text and remains there on the 'active' webpage. This simplistic addition suits the elegance of the website as opposed to a solid background colour.
+- The navigation bar consistently appears on all the pages and contains links to the Home, Menu, Bookings and Recipes pages. Having this on every page allows the user to easily navigate around the website. When the user hovers over the navigation section a solid white line appears under the text and remains there on the 'active' webpage. This simplistic addition suits the elegance of the website as opposed to a solid background colour.
 
 # Wireframes
 
@@ -101,7 +101,7 @@ Some alterations were made from the original wireframe designs to improve User E
 
 ## Welcome
 
-- The Welcome Section of the site introduces users to Batten's Bakery and gives a personalised feel to the website containing a hand written welcome message and signature. 
+- The Welcome Section of the site introduces users to Batten's Bakery and gives a personalised feel to the website containing a handwritten welcome message and signature. 
 - Users are given the option to contact the company for more information. The button jumps to the footer of the page containing contact numbers and social media links.
 
 # Customer Favourites Section
@@ -110,7 +110,7 @@ Some alterations were made from the original wireframe designs to improve User E
 
 ## Cake Strip
 
-- The Customer Favourites Section is eye catching to the user and contains a strip of delicious cakes that are individually linked to the step by step recipe guide.
+- The Customer Favourites Section is eye catching to the user and contains a strip of delicious cakes that are individually linked to the step-by-step recipe guide.
 - Users should be drawn to this section of the website due to the vibrant use of colour against a neutral background. This should encourage them to either want to try the cakes fresh from the bakery or bake their own at home.
 
 # Join Us Section
@@ -129,7 +129,7 @@ Some alterations were made from the original wireframe designs to improve User E
 
 ## Sign Up
 
-- The Newsletter Section allows the user to sign up to Batten's Bakery giving them new recipes and discounts straight to their inbox. This section is responsible for enticing the user to revisit the site in the future; hence why it features on all of the main pages on the website.
+- The Newsletter Section allows the user to sign up to Batten's Bakery giving them new recipes and discounts straight to their inbox. This section is responsible for enticing the user to revisit the site in the future; hence why it features on all the main pages on the website.
 
 # Footer Section
 
@@ -138,13 +138,13 @@ Some alterations were made from the original wireframe designs to improve User E
 ## Social Media Platforms
 
 - The Footer Section includes links to the relevant social media platforms. These links open in a new tab which allows easy navigation for the user and prevents them leaving the site.
-- This is a valuable section of the website as it allows the user to view more testomonials and information about the bakery.
+- This is a valuable section of the website as it allows the user to view more testimonials and information about the bakery.
 
 # Menu Section
 
 ![Menu](assets/images/afternoon_tea_menu.PNG)
 
-- The Menu Section of the website allows the user to view the afternoon tea menu and also provides the option to download it. This will allow the user to choose food and check dietery requirements before visiting the bakery.
+- The Menu Section of the website allows the user to view the afternoon tea menu and provides the option to download it. This will allow the user to choose food and check dietary requirements before visiting the bakery.
 - Users should be well informed as a result of this page and be interested in booking for afternoon tea.
 
 # Bookings Section
@@ -159,7 +159,7 @@ Some alterations were made from the original wireframe designs to improve User E
 ![Recipes](assets/images/recipes_section.PNG)
 
 - The Recipes Section contains 6 baking ideas for users to try at home. This section was made upon request of the client who wanted customers to have the option to bake from home whilst in lockdown.
-- Each recipe contains a star rating, time frame and dietary requirements ensuring the customers needs are met on each page.
+- Each recipe contains a star rating, time frame and dietary requirements ensuring the customer's needs are met on each page.
 
 # Baking Steps Sections
 
@@ -170,7 +170,7 @@ Some alterations were made from the original wireframe designs to improve User E
 
 # Future Features
 
-- In the future Batten's Bakery would benefit from an online store enabling its customers to purchase pasteries and cakes online. This feature would increase the number of visitors to the site and increase the number of orders at Batten's Bakery.
+- In the future Batten's Bakery would benefit from an online store enabling its customers to purchase pastries and cakes online. This feature would increase the number of visitors to the site and increase the number of orders at Batten's Bakery.
 
 # Technology Used
 
@@ -180,9 +180,9 @@ The website was tested thoroughly both manually and automatically.
 
 ## Manual Testing
 
-Manual testing was done throughout the entire project and the website was continually tested on different browsers and screensizes for errors within the code. Dev tools was initially used to ammend errors allowing me to trial corrections before adding them onto gitpod. 
+Manual testing was done throughout the entire project and the website was continually tested on different browsers and screen sizes for errors within the code. Dev tools was initially used to amend errors allowing me to trial corrections before adding them onto Gitpod. 
 
-I regularly generated lighthouse reports which gave me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage I had an issue with the images causing the page to load slowly, this was resolved by saving the images as AVIF. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough, this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
+I regularly generated lighthouse reports which gave me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage, I had an issue with the images causing the page to load slowly, this was resolved by saving the images as AVIF. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough, this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
 
 ![Lighthouse-Report](assets/images/lighthouse_report.PNG)
 
@@ -206,7 +206,7 @@ Below is a screenshot of the HTML and CSS validator for my index.html page. This
 Alongside checking my code was free from coding errors I also used [WAVE](https://wave.webaim.org/) to check the accessibility of my website specifically aimed at people with disabilities. This was an extremely useful tool as it highlighted errors and warnings that could hinder the use of the website to people with impaired vision. More specifically these include:
 
 - Error - Icons were children of heading tag making the content difficult to understand for impaired readers. Icons were contained in span tags and removed from heading tags.
-- Error - Label was missing from the sign up section. Label was added although hidden to suit the design of the webpage.
+- Error - Label was missing from the sign-up section. Label was added although hidden to suit the design of the webpage.
 
 All errors were removed as a result of using this software. 
 
@@ -226,7 +226,7 @@ The live link to the website can be found here: [https://sophiebatten123.github.
 
 - The recipes included on the website were not written myself and instead were taken from recipe websites including: [Veganonboard](https://veganonboard.com/), [Lovingitvegan](https://lovingitvegan.com/) and [BBC-Good-Food](https://bbcgoodfood.com).
 - The icons included throughout the website were taken from [Font-Awesome](https://fontawesome.com/).
-- Colour themes were choosen through the use of [Coolors](https://coolors.co/).
+- Colour themes were chosen using [Coolors](https://coolors.co/).
 - Help and support was provided for the layout of the recipes section of my website from the Code Institute Tutors.
 
 ## Media

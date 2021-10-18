@@ -1079,7 +1079,7 @@ h1, h2 {
     background-color: #C7BF94;
 }
 
-#bookings_download_text {
+.bookings_download_text {
     text-align: center;
     font-size: 150%;
 }

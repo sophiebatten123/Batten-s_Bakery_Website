@@ -659,13 +659,6 @@ h1, h2 {
     float: left;
 }
 
-.contact_us > p {
-    font-size: 150%;
-    padding-left: 10px;
-    padding-top: 2px;
-    float: left;
-}
-
 .contact_us {
     float: left;
     margin-left: 2%;
@@ -1495,9 +1488,6 @@ h1, h2 {
     #long_text {
         display: none;
     }
-    .contact_us > p {
-        font-size: 130%;
-    }
     .contact_us > h3 {
         font-size: 130%;
     }
@@ -1625,9 +1615,6 @@ h1, h2 {
         height: 230px;
         width: 230px;
     }
-    .contact_us > p {
-        font-size: 120%;
-    }
     .contact_us > h3 {
         font-size: 120%;
     }
@@ -1664,9 +1651,6 @@ h1, h2 {
     }
     #afternoon_tea_img2 img {
         display: none;
-    }
-    .contact_us > p {
-        font-size: 110%;
     }
     .contact_us > h3 {
         font-size: 110%;
@@ -1724,9 +1708,6 @@ h1, h2 {
     .container {
         height: 220px;
         width: 220px;
-    }
-    .contact_us > p {
-        font-size: 100%;
     }
     .contact_us > h3 {
         font-size: 100%;
@@ -2196,6 +2177,9 @@ h1, h2 {
         height: 300px;
         padding-top: 20px;
     }
+    .contact_us h3 {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 414px) {
@@ -2299,13 +2283,6 @@ h1, h2 {
         flex-flow: wrap;   
 
         padding-top: 0;
-    }
-    .contact_us p {
-        float: none;
-        text-align: center;
-    }
-    .contact_us h3 {
-        float: none;
     }
     .menu p {
         font-size: 120%;

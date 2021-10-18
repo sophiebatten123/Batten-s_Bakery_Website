@@ -182,7 +182,7 @@ The website was tested thoroughly both manually and automatically.
 
 Manual testing was done throughout the entire project and the website was continually tested on different browsers and screen sizes for errors within the code. Dev tools was initially used to amend errors allowing me to trial corrections before adding them onto Gitpod. 
 
-I regularly generated lighthouse reports which gave me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage, I had an issue with the images causing the page to load slowly, this was resolved by saving the images as AVIF. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough, this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
+I regularly generated lighthouse reports which gave me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage, I had an issue with the images on the main page causing the site to load slowly on mobile devices, initially I resolved this by importing the main image as an AVIF file however upon inspection this made the image unreadable on Microsoft Edge - hence why I resorted back to the inital jpeg format. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough, this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
 
 ![Lighthouse-Report](assets/images/lighthouse_report.PNG)
 

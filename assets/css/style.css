@@ -319,6 +319,10 @@ h1, h2 {
 
 /* Styling the customer favourites section on the main page and cake selection strip */
 
+.click_here h2 {
+    display: inline;
+}
+
 .click_here {
     text-align: center;
     margin: 0 auto;
@@ -326,22 +330,8 @@ h1, h2 {
     background-color: white;
 }
 
-.click_here_link:hover {
-    border-bottom: 2px solid #808000;
-}
-
-.click_here h2 {
-    display: inline;
-}
-
-.click_here_link {
-    font-size: inherit;
-    text-decoration: none;
-    color: #808000;
-}
-
-.click_here_outer {
-    width: 20%;
+#long_text {
+    font-size: 220%;
     display: inline;
 }
 
@@ -350,8 +340,18 @@ h1, h2 {
     color: #080808;
 }
 
-#short_text a {
+#short_text {
     display: none;
+}
+
+.click_here_link:hover {
+    border-bottom: 2px solid #808000;
+}
+
+.click_here_link {
+    font-size: inherit;
+    text-decoration: none;
+    color: #808000;
 }
 
 .heart_text {
@@ -1452,10 +1452,13 @@ h1, h2 {
         width: 200px;
         height: 200px;
     }
+    #short_text {
+        display: inline;
+    }
     #short_text a {
         text-decoration: none;
         color: #080808;
-        display: inline-block;
+        font-size: 220%;
     }
     #long_text {
         display: none;

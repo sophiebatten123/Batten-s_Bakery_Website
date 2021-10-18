@@ -340,6 +340,11 @@ h1, h2 {
     color: #808000;
 }
 
+.click_here_outer {
+    width: 20%;
+    display: inline;
+}
+
 #long_text a {
     text-decoration: none;
     color: #080808;

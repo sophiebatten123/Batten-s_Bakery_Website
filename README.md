@@ -202,7 +202,34 @@ Below is a screenshot of the HTML and CSS validator for my index.html page. This
 
 ![CSS-Validator-Report](assets/images/css_validator.PNG)
 
-# WAVE Testing
+## WAVE Testing
+
+Alongside checking my code was free from coding errors I also used [WAVE](https://wave.webaim.org/) to check the accessibility of my website specifically aimed at people with disabilities. This was an extremely useful tool as it highlighted errors and warnings that could hinder the use of the website to people with impaired vision. More specifically these include:
 
 - Error - Icons were children of heading tag making the content difficult to understand for impaired readers. Icons were contained in span tags and removed from heading tags.
 - Error - Label was missing from the sign up section. Label was added although hidden to suit the design of the webpage.
+
+All errors were removed as a result of using this software. 
+
+# Deployment
+
+The website was deployed through GitHub pages and accessible by the following steps:
+
+- Start within the GitHub repository and then navigate to the settings tab.
+- From the settings selection choose the pages tab.
+- Select the Master Branch and the page will automatically be opened with a detailed ribbon display containing the site link.
+
+The live link to the website can be found here: [https://sophiebatten123.github.io/Batten-s_Bakery_Website/index.html](https://sophiebatten123.github.io/Batten-s_Bakery_Website/index.html)
+
+# Credits
+
+## Content
+
+- The recipe's included on the website were taken from [Veganonboard](https://veganonboard.com/) and [Lovingitvegan](https://lovingitvegan.com/)
+- The icons icluded throughout the website were taken from [Font-Awesome](https://fontawesome.com/)
+- Colour themes were choosen through the use of [Coolors](https://coolors.co/)
+
+## Media
+
+- Images were free stock photos taken from [Pexels](https://www.pexels.com/).
+- Instructions on how to make the polygon cover text strip was taken from Razvan Caliman's article [CSS-Shapes](https://www.html5rocks.com/en/tutorials/shapes/getting-started/)

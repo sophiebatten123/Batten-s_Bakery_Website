@@ -186,3 +186,16 @@ Manual testing was done throughout the entire project and the website was contin
 I regularly generated lighthouse reports which would give me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage I had an issue with the images causing the page to load slowly, this was resolved by saving images as AVIF. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
 
 ![Lighthouse-Report](assets/images/lighthouse_report.PNG)
+
+## Automatic Testing
+
+Automatic testing of the HTML and CSS code was checked using [W3C Validator](https://validator.w3.org/) to ensure that there were no errors or warnings within the code. All pages were ran through the validator and no errors or warnings were present when the site was deployed. However, errors were found and fixed as a result of this software during the building stages of the website these include: 
+
+- Error - ID element was used twice on one page. This was replaced with a class tag.
+- Warning - Heading tags were children of span tags. This was fixed by replacing span tags with div tags.
+- Warning - Section contained no heading tag. Heading tag was added although hidden to suit the design of the webpage.
+
+
+# WAVE Testing
+
+- Error - Icons were children of heading tag 

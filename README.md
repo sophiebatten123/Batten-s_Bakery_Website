@@ -192,10 +192,17 @@ I regularly generated lighthouse reports which would give me an indication on ho
 Automatic testing of the HTML and CSS code was checked using [W3C Validator](https://validator.w3.org/) to ensure that there were no errors or warnings within the code. All pages were ran through the validator and no errors or warnings were present when the site was deployed. However, errors were found and fixed as a result of this software during the building stages of the website these include: 
 
 - Error - ID element was used twice on one page. This was replaced with a class tag.
+- Error - Alt tag was a child of a hyperlink tag. This was removed.
 - Warning - Heading tags were children of span tags. This was fixed by replacing span tags with div tags.
 - Warning - Section contained no heading tag. Heading tag was added although hidden to suit the design of the webpage.
 
+Below is a screenshot of the HTML and CSS validator for my index.html page. This shows no errors or warnings when the website was deployed.
+
+![HTML-Validator-Report](assets/images/html_validator.PNG)
+
+![CSS-Validator-Report](assets/images/css_validator.PNG)
 
 # WAVE Testing
 
-- Error - Icons were children of heading tag 
+- Error - Icons were children of heading tag making the content difficult to understand for impaired readers. Icons were contained in span tags and removed from heading tags.
+- Error - Label was missing from the sign up section. Label was added although hidden to suit the design of the webpage.

@@ -79,10 +79,20 @@ h1, h2 {
 
 #signup a {
     text-decoration: none;
+    display: inline;
+}
+
+#signup h2 {
+    display: inline;
 }
 
 #signup_responsive {
     display: none;
+}
+
+.newspaper {
+    font-size: 120%;
+    color: #080808;
 }
 
 #navigation_style {
@@ -599,6 +609,9 @@ h1, h2 {
 #email {
     width: 90%;
     margin-left: 4%;
+}
+#email_text {
+    visibility: hidden;
 }
 
 #submit {
@@ -1160,7 +1173,7 @@ h1, h2 {
     background: url('../images/selection3.jpeg') no-repeat center center;
     height: 45%;
     width: 45%;
-    border-radius: 50%;
+    border-radius: 50%!important;
     background-size: cover;
     text-align:center;
     padding:0;
@@ -1893,6 +1906,9 @@ h1, h2 {
     #afternoon_tea_foreground_images {
         height: 98%;
     }
+    #afternoon_tea_button {
+        width: 80%;
+    }
     #footer_media {
         width: 24%;
         padding-top: 8px;
@@ -2393,11 +2409,8 @@ h1, h2 {
     .about_us_text {
         font-size: 92%;
     }
-    #welcome {
-        padding-left: 45px;
-    }
     #text_about {
-        margin-left: 12%;
+        margin-left: 0;
     }
     #about_left {
         width: 95%;

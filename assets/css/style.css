@@ -1183,62 +1183,40 @@ h1, h2 {
 
 #image6 {
     background: url('../images/selection3.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%!important;
     background-size: cover;
-    text-align:center;
-    padding:0;
 }
 
 #image5 {
     background: url('../images/selection2.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%;
     background-size: cover;
-    text-align:center;
-    padding:0;
 }
 
 #image4 {
     background: url('../images/selection1.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%;
     background-size: cover;
-    text-align:center;
-    padding:0;
 }
 
 #image3 {
     background: url('../images/selection6.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%;
     background-size: cover;
-    text-align:center;
-    padding:0;
 }
 
 #image2 {
     background: url('../images/selection5.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%;
     background-size: cover;
-    text-align:center;
-    padding:0;
 }
 
 #image1 {
     background: url('../images/selection4.jpeg') no-repeat center center;
-    height: 45%;
-    width: 45%;
-    border-radius: 50%;
     background-size: cover;
-    text-align:center;
-    padding:0;
+}
+
+.recipe_images {
+    height: 250px;
+    width: 250px;
+
+    border-radius: 50%!important;
+    margin-top: 5px;
 }
 
 .checked {
@@ -1507,24 +1485,6 @@ h1, h2 {
     .background_recipes {
         height: 500px;
     }
-    #image1_recipe {
-        width: 70%;
-    }
-    #image2_recipe {
-        width: 70%;
-    }
-    #image3_recipe {
-        width: 70%;
-    }
-    #image4_recipe {
-        width: 70%;
-    }
-    #image5_recipe {
-        width: 70%;
-    }
-    #image6_recipe {
-        width: 70%;
-    }
     .icons h3 {
         font-size: 75%;
     }
@@ -1625,24 +1585,6 @@ h1, h2 {
     #background_recipes_page {
         height: 900px;
     }
-    #image1_recipe {
-        width: 85%;
-    }
-    #image2_recipe {
-        width: 85%;
-    }
-    #image3_recipe {
-        width: 85%;
-    }
-    #image4_recipe {
-        width: 85%;
-    }
-    #image5_recipe {
-        width: 85%;
-    }
-    #image6_recipe {
-        width: 85%;
-    }
     .icons h3 {
         font-size: 65%;
     }
@@ -1726,30 +1668,6 @@ h1, h2 {
     #background_recipes_page {
         border: none;
     }
-    #image1_recipe {
-        width: 20%;
-        height: 80%;
-    }
-    #image2_recipe {
-        width: 20%;
-        height: 80%;
-    } 
-    #image3_recipe {
-        width: 20%;
-        height: 80%;
-    } 
-    #image4_recipe {
-        width: 20%;
-        height: 80%;
-    } 
-    #image5_recipe {
-        width: 20%;
-        height: 80%;
-    } 
-    #image6_recipe {
-        width: 20%;
-        height: 80%;
-    }  
     .recipe_ratings {
         padding: 2%;
         font-size: 120%;
@@ -2060,6 +1978,10 @@ h1, h2 {
     }
     .icons h3 {
         font-size: 52%;
+    }
+    .recipe_images {
+        height: 200px;
+        width: 200px;
     }
 }
 

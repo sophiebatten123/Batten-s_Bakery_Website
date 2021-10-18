@@ -176,6 +176,10 @@ h1, h2 {
 
 /* Styling of the about us and welcome section of the website */
 
+#about_us_heading {
+    visibility: hidden;
+}
+
 #background_color {
     height: 600px;
     width: 100%;
@@ -1169,7 +1173,7 @@ h1, h2 {
 }
 
 .border_recipes p {
-    color: #808000;
+    color: #080808;
     font-size: 120%;
     padding-left: 2%;
     padding-right: 2%;

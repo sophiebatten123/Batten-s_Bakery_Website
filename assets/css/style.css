@@ -326,17 +326,26 @@ h1, h2 {
     background-color: white;
 }
 
-.click_here a {
-    text-decoration: none;
-    color: #808000;
-}
-
 .click_here a:hover {
     border-bottom: 2px solid #808000;
 }
 
 .click_here h2 {
     display: inline;
+}
+
+.click_here_link {
+    font-size: inherit;
+    text-decoration: none;
+    color: #808000;
+}
+
+#long_text a {
+    text-decoration: none;
+}
+
+#short_text a {
+    text-decoration: none;
 }
 
 .heart_text {
@@ -435,6 +444,7 @@ h1, h2 {
 #short_text {
     display: none;
 }
+
 
 /*Styling to the Afternoon Tea section of the index page */
 
@@ -1317,7 +1327,6 @@ h1, h2 {
     width: 250px;
 
     border-radius: 50%;
-    padding:0;
 }
 
 #ingredients {
@@ -2033,7 +2042,7 @@ h1, h2 {
         font-size: 200%;
     }
     #background_recipes_page {
-        height: 1450px;
+        height: 1500px;
     }
     .icons h3 {
         font-size: 35%;

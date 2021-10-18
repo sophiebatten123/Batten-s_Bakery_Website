@@ -352,6 +352,7 @@ h1, h2 {
     font-size: inherit;
     text-decoration: none;
     color: #808000;
+    font-weight: bold;
 }
 
 .heart_text {

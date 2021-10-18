@@ -90,6 +90,10 @@ h1, h2 {
     display: none;
 }
 
+#sign_up_hidden {
+    visibility: hidden;
+}
+
 .newspaper {
     font-size: 120%;
     color: #080808;

@@ -224,9 +224,10 @@ The live link to the website can be found here: [https://sophiebatten123.github.
 
 ## Content
 
-- The recipes included on the website were taken from [Veganonboard](https://veganonboard.com/) and [Lovingitvegan](https://lovingitvegan.com/).
+- The recipes included on the website were not written myself and instead were taken from recipe websites including: [Veganonboard](https://veganonboard.com/), [Lovingitvegan](https://lovingitvegan.com/) and [BBC-Good-Food](https://bbcgoodfood.com).
 - The icons included throughout the website were taken from [Font-Awesome](https://fontawesome.com/).
 - Colour themes were choosen through the use of [Coolors](https://coolors.co/).
+- Help and support was provided for the layout of the recipes section of my website from the Code Institute Tutors.
 
 ## Media
 

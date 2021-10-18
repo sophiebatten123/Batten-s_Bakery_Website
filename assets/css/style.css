@@ -1085,7 +1085,6 @@ h1, h2 {
    color: #080808;
 }
 
-
 #menu_download_bookings:hover {
     background-color: #C7BF94;
 }
@@ -1101,8 +1100,7 @@ h1, h2 {
     border-radius: 4px;
 
     margin-top: 10%;
-    padding: 40px 20px;
-   
+    padding: 40px 20px; 
 }
 
 /*Styling the recipes page*/

@@ -168,3 +168,21 @@ Some alterations were made from the original wireframe designs to improve User E
 - The Baking Steps Sections contain different recipes chosen from the recipes page broke down into ingredients and method sections.
 - Steps have been ordered to ensure users do them sequentially.
 - At the bottom of each recipe users are encouraged to share their bakes on social media to promote Batten's Bakery further.
+
+# Future Features
+
+- In the future Batten's Bakery would benefit from an online store enabling its customers to purchase pasteries and cakes online. This feature would increase the number of visitors to the site and increase the number of orders at Batten's Bakery.
+
+# Technology Used
+
+# Testing
+
+The website was tested thoroughly both manually and automatically.
+
+## Manual Testing
+
+Manual testing was done throughout the entire project and the website was continually tested on different browsers and screensizes for errors within the code. Dev tools was initially used to ammend errors allowing me to trial corrections before adding them onto gitpod. 
+
+I regularly generated lighthouse reports which would give me an indication on how well the webpage was performing. Initially when I ran lighthouse on my homepage I had an issue with the images causing the page to load slowly, this was resolved by saving images as AVIF. Furthermore, I also had an issue in which the hyperlinked text was not descriptive enough this was resolved by adding more context to the link. Below is an example of a lighthouse report generated on my recipes.html page.
+
+![Lighthouse-Report](assets/images/lighthouse_report.PNG)
